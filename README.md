@@ -18,7 +18,7 @@
 
 <br/>
 
-## 🛠️ My skills
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> My skills  
 
 ### 👉 Programming languages
 
@@ -89,7 +89,46 @@
 
 <br/>
 
-# 
+## Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">3D Cards CSS</h3>
+<div align="center">
+<a href="https://3d-cards-css.netlify.app/"><img src="https://github.com/Hanaede/Hanaede/assets/115145469/654e3c55-d7df-4d3d-ac8c-f90bbaf3388d" width="400" alt="3D Cards CSS"></a>
+<p>
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/vJapzH_46a8" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Cards with flip animation</p>
+</div>
+
+</td>
+
+<td width="50%">          
+<h3 align="center">Tolomalo indie magazine</h3>
+<div align="center">
+<a href="https://tolomalo-web-def.netlify.app/"><img src="https://github.com/Hanaede/Hanaede/assets/115145469/8c72b417-adbd-4720-822f-76c43ccab5e3" width="400" alt="3D Cards CSS"></a>
+<br>
+<p>
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/vJapzH_46a8" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Web design for an indie cultural magazine</p>
+</div>
+</table>
+</div>
+<br>
+
 
 ![Let’s talk!s](https://github.com/Hanaede/Hanaede/assets/115145469/1a82f092-7dcb-4e16-9298-45ba8fae31ce)
 
