@@ -88,3 +88,8 @@
 </p>
 
 <br/>
+
+# 
+
+![Let’s talk!s](https://github.com/Hanaede/Hanaede/assets/115145469/1a82f092-7dcb-4e16-9298-45ba8fae31ce)
+
