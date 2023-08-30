@@ -150,17 +150,18 @@ const thai = {
 <br>
 
 ![Let’s talk!s](https://github.com/Hanaede/Hanaede/assets/115145469/1a82f092-7dcb-4e16-9298-45ba8fae31ce)
-
 <br>
+<div align="center">
 
-[<kbd> <br> GitHub Profile <br> </kbd>][Link]
-<br>
+[<kbd > <br> GitHub Profile <br> </kbd>][Link]
+<a href="mailto:hanaededev@gmail.com" target="blank">
+<img align="center" src="https://github.com/Hanaede/Hanaede/assets/115145469/b61d66ec-64ca-4da8-8f3c-56f52adf9cfe" style="height: 4rem"/>
+</a>
+</div>
 
 [Link]: https://github.com/Hanaede
-
-<br>
-
 <!---------- Connect ---------->
+
 
 <!---------- gradient line ---------->
 <p  align="center">
