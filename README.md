@@ -33,7 +33,7 @@ const thai = {
 😆 Fun fact: I love wheelie bikes, cooking, coding, traveling and recording movies with Mini DV
 
 
-<!--Skills-->
+<!---------- Skills ---------->
     
 <br/>
 
@@ -82,7 +82,7 @@ const thai = {
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
 
-<h3>GRAPHIC DESIGN</h3>
+<h3>Graphic Design</h3>
 <p align="left">
   <a href="https://www.adobe.com/es/products/illustrator.html">
     <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
@@ -95,16 +95,17 @@ const thai = {
   <a href="https://www.figma.com/">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
  </p>
+<!---------- Skills ---------->
 
-<!-- gradient line -->
+<!----------- gradient line ---------->
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-<!-- gradient line -->
+<!---------- gradient line ---------->
 
-<!-- Project -->
-## <img src="https://github.com/Hanaede/Hanaede/assets/115145469/fa6d55d7-1728-42e5-bdd5-c130ee37618d" align="center" width="28"/> Projects
-
+<!---------- Project ---------->
+<h3> <img src="https://github.com/Hanaede/Hanaede/assets/115145469/fa6d55d7-1728-42e5-bdd5-c130ee37618d" width="28"/> Projects</h3>
+<br>
 <table>
 <tr>
 <td width="50%">
@@ -136,21 +137,19 @@ const thai = {
 </table>
 </div>
 <br>
-<!-- Project -->
+<!---------- Project ---------->
 
-<!-- gradient line -->
+<!---------- gradient line ---------->
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-<!-- gradient line -->
+<!---------- gradient line ---------->
+
+<!---------- Connect ---------->
+<h3>Connect</h3>
+<br>
 
 ![Let’s talk!s](https://github.com/Hanaede/Hanaede/assets/115145469/1a82f092-7dcb-4e16-9298-45ba8fae31ce)
-
-
-
-<!--<p align="center">  
- &nbsp; <a href="mailto:hanaededev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p> -->
 
 <br>
 
@@ -160,4 +159,31 @@ const thai = {
 [Link]: https://github.com/Hanaede
 
 <br>
+
+<!---------- Connect ---------->
+
+<!---------- gradient line ---------->
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+<!---------- gradient line ---------->
+
+<!---------- Statistics ---------->
+<h3>🏅 GitHub Statistics</h3>
+<div align="center">
+<table>
+  <tr>
+    <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=Hanaede&show_icons=true&theme=swift" width="100%"/>
+    </td>
+    <td>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Hanaede&theme=swift&card_width=400" width="100%"/>
+    </td>
+    <td>
+    <img src="https://github-profile-trophy.vercel.app/?username=Hanaede&row=2&column=4&theme=oldie&no-frame=true&margin-w=15&margin-h=15" width="100%"/>
+    </td>
+  </tr>
+</table>
+</div>
+<!---------- Statistics ---------->
 
