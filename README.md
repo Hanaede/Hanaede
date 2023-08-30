@@ -154,9 +154,10 @@ const thai = {
 <div align="center">
 
 [<kbd > <br> GitHub Profile <br> </kbd>][Link]
-<a href="mailto:hanaededev@gmail.com" target="blank">
+
+<!--<a href="mailto:hanaededev@gmail.com" target="blank">
 <img align="center" src="https://github.com/Hanaede/Hanaede/assets/115145469/b61d66ec-64ca-4da8-8f3c-56f52adf9cfe" style="height: 4rem"/>
-</a>
+</a> -->
 </div>
 
 [Link]: https://github.com/Hanaede
