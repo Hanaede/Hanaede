@@ -1,15 +1,26 @@
-
+<!---------- Hi, I'm Hanaede ---------->
 <h1 align="center"><b>Hi , I'm Hanaede </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"></h1>  
-<!--  -->
+<!---------- Hi, I'm Hanaede ---------->
 
+<!---------- Every second counts ---------->
+<h3 align="right"><b>Every second counts</b><img width="50"></h3>  
+<!---------- Every second counts ---------->
+
+<!---------- Visitors and followers ---------->
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHanaede%2FHanaede&label=Visitors&labelColor=%23f4f5f5&countColor=%23202222&style=flat-square&labelStyle=lower) [![GitHub followers](https://img.shields.io/github/followers/Hanaede.svg?style=social&label=Follow)](https://github.com/Hanaede?tab=followers)
 <br/>
+<!---------- Visitors and followers ---------->
 
+<!---------- Animate text ---------->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=40&duration=2500&pause=1000&color=BE97C6&background=85FF4000&center=true&vCenter=true&width=1000&lines=Frontend+Developer+student;Learning+HTML%2C+CSS%2C+JS%2C+React%2C+Java%2C+Sql...)](https://git.io/typing-svg)
+<!---------- Animate text ---------->
 
 
+<!---------- Image ---------->
 
 <img align="right" width="500" height="500" src="https://github.com/Hanaede/Hanaede/assets/115145469/839bdc72-b19b-4458-bcb8-f2217a30406a">  
+<!---------- Image ---------->
+
 <!--
 ```javascript
 const thai = {
@@ -26,15 +37,14 @@ const thai = {
 }
 ``` -->
 
-
+<!---------- Bio ---------->
 🎓 I'm currently studying Frontend Developer  
 🤝 I’m looking to collaborate on project, open source code and new challenges  
 📓 I'm currently learnig HTML, CSS, JavaScript, React, Java, SQL...    
 😆 Fun fact: I love wheelie bikes, cooking, coding, traveling and recording movies with Mini DV
-
+<!---------- Bio ---------->
 
 <!---------- Skills ---------->
-    
 <br/>
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> My skills  
@@ -169,8 +179,8 @@ const thai = {
 <br>
 <!---------- gradient line ---------->
 
-<!---------- Statistics ---------->
-<h3>🏅 GitHub Statistics</h3>
+<!---------- GitHub status ---------->
+<h3>🏅 GitHub Status</h3>
 <div align="center">
 <table>
   <tr>
@@ -186,6 +196,6 @@ const thai = {
   </tr>
 </table>
 </div>
-<!---------- Statistics ---------->
+<!---------- GitHub status ---------->
 
 
