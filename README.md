@@ -17,8 +17,7 @@
 
 
 <!---------- Image ---------->
-
-<img align="right" width="500" height="500" src="https://github.com/Hanaede/Hanaede/assets/115145469/839bdc72-b19b-4458-bcb8-f2217a30406a">  
+<!--  <img align="right" width="500" height="500" src="https://github.com/Hanaede/Hanaede/assets/115145469/839bdc72-b19b-4458-bcb8-f2217a30406a"> -->
 <!---------- Image ---------->
 
 <!--
